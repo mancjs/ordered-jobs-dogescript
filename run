@@ -1,0 +1,2 @@
+#!/bin/bash
+dogescript jobs.djs > jobs.js && node jobs.js
